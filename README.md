@@ -1,2 +1,1 @@
-# PrepCourse-Fullstack-Henry
-Repositorio de prueba módulo 2 prepcourse Henry
+Proyecto de prueba para crear un repositorio desde github y clonarlo en escritorio local
